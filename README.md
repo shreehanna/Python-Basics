@@ -22,7 +22,14 @@ Stick around — this repo’s only getting better.
 | [`Rock Paper Scissors.py`](Rock%20Paper%20Scissors.py) | Classic RPS with a Python twist ✂️ |
 | [`Simple Calculator.py`](Simple%20Calculator.py) | CLI calculator (basic ops) ➕➖✖️➗ |
 
-
+🛠️ Skills Gained
+- Python fundamentals: `print()`, `input()`, variables
+- Control flow: `if/else`, `while`, `for` loops
+- Functions + modular code
+- Git + GitHub (add, commit, push, README markdown)
+- Writing clear commit messages
+- CLI project structure
+  
 ## 📌 Note
 
 This is a work-in-progress repo as I learn Python every day.  
