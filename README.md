@@ -14,13 +14,14 @@ Stick around — this repo’s only getting better.
 
 ## 📂 What’s inside?
 
-| File Name                | Description                        |
-|--------------------------|------------------------------------|
-| `01_hello.py`            | First ever Python program 💻       |
-| `_even_or_odd.py`        | Checks if number is even or odd 🔢 |
-| `guess the number.py`    | A fun lil guessing game 🎯         |
-| `Rock Paper Scissors.py` | Classic RPS with a Python twist ✂️ |
-| `Simple Calculator.py`   | CLI calculator (basic ops) ➕➖✖️➗ |
+| File Name | Description |
+|-----------|-------------|
+| [`01_hello.py`](01_hello.py) | First ever Python program 💻 |
+| [`_even_or_odd.py`](_even_or_odd.py) | Checks if number is even or odd 🔢 |
+| [`guess the number.py`](guess%20the%20number.py) | A fun lil guessing game 🎯 |
+| [`Rock Paper Scissors.py`](Rock%20Paper%20Scissors.py) | Classic RPS with a Python twist ✂️ |
+| [`Simple Calculator.py`](Simple%20Calculator.py) | CLI calculator (basic ops) ➕➖✖️➗ |
+
 
 ## 📌 Note
 
@@ -30,3 +31,4 @@ Check back later for cooler stuff like mini-games, web scraping, and AI bots. �
 ---
 
 ⭐ Star it if you vibe with the effort, and stay tuned!
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
